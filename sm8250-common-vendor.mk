@@ -351,6 +351,7 @@ PRODUCT_PACKAGES += \
     libnetmgr_rmnet_ext \
     libnlnetmgr \
     liboemcrypto \
+    libofflinelog \
     libops \
     libpdmapper \
     libpdnotifier \
